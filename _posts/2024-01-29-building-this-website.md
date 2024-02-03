@@ -1,10 +1,10 @@
 ---
-title: example post
+title: Aviv's First Post
 published: true
 permalink: example
 ---
 
-Here's an example post. Some math. 
+The Yimbobway Experience continued.  
 
 $$
 y = \sum_i \log{x_i}
