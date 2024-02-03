@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: patrick hajali
+title: Aviv's Colorful Room
 # email: hajalipat@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is my digital garden. Creation is self-observation. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "patrickhajali.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: pathajali
-github_username: patrickhajali
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: 
+github_username: avivzohman2
 
 # Build settings
 theme: minima
@@ -49,8 +49,8 @@ header_pages:
   - research.md
 
 author: 
-    name: " "
-    email: hajalipat@gmail.com
+    name: "Aviv Zohman"
+    email: zohman.aviv@gmail.com
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
